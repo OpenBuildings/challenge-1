@@ -23,7 +23,7 @@ The only requirements we have is this to be a [composer package](https://getcomp
 
 If you don't want to start from scratch, we have our own template generator that will bring you up to speed - https://github.com/clippings/composer-init (you should use "clippings/package-template" template), however whatever you think is best.
 
-The resulting work should have a license compatible with BSD-3-Clause license, and will remain under your own copyright to do as you wish.
+The resulting work should have a license compatible with BSD-3-Clause, and will remain under your own copyright to do as you wish.
 
 Recommended license: MIT
 
