@@ -17,10 +17,12 @@ Swiftmailer supports plugins and is very configurable so it should be possible t
 
 We have already implemented several plugins for swiftmailer ourselves which can be used as further guide too, but you can do whatever you think is best.
 
-Clippings swfitmailer plugins:
+| Clippings swfitmailer plugins                        |
+| ---------------------------------------------------- |
+| https://github.com/OpenBuildings/?query=swiftmailer  |
+| https://github.com/clippings/?query=swiftmailer      |
 
-https://github.com/OpenBuildings/?query=swiftmailer
-https://github.com/clippings/?query=swiftmailer
+
 
 The only requirements we have is this to be a [composer package](https://getcomposer.org/), and to have an acceptable test coverage. Added bonus is the use of (with a high score) of [scrutinizer-ci](https://scrutinizer-ci.com/) or anther static code analysis tool, as you can see in our own packages.
 
