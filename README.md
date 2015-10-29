@@ -17,7 +17,7 @@ Swiftmailer supports plugins and is very configurable so it should be possible t
 
 We have already implemented several plugins for swiftmailer ourselves which can be used as further guide too, but you can do whatever you think is best.
 
-| Clippings swfitmailer plugins                        |
+| Clippings SwfitMailer plugins                        |
 | ---------------------------------------------------- |
 | https://github.com/OpenBuildings/?query=swiftmailer  |
 | https://github.com/clippings/?query=swiftmailer      |
